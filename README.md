@@ -11,7 +11,7 @@ python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn xlr
 ```
 To check installation, run this (should be silent):
 ```bash
-python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn
+python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn, xlrd"
 ```
 
 ## To run the jupyter notebooks
