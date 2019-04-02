@@ -15,7 +15,7 @@ python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn
 ```
 
 ## To run the jupyter notebooks
-```
+```bash
 source venv/bin/activate
 jupyter notebook
 ```
