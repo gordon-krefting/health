@@ -7,7 +7,7 @@ Assuming python and virtualenv are already installed
 ```bash
 virtualenv venv
 source venv/bin/activate
-python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn xlrd
 ```
 To check installation, run this (should be silent):
 ```bash
